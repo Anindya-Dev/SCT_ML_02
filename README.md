@@ -37,7 +37,7 @@ You can use the public **Mall_Customers.csv** dataset as an example.
 ## Clone the repository:
 
 git clone https://github.com/Anindya-Dev/SCT_ML_02.git
-cd SCT_ML_01
+cd SCT_ML_02
 
 
 ## ▶️ How to Run
